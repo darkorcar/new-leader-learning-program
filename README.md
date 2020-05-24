@@ -43,8 +43,8 @@ Set goals that are meaningful, aspirational and progress-based.
     - **Career** goals - individual interests and development. One per quarter.
     - **Performance** goals - role-related and performance outcomes. One to three per quarter.
 - Accessing contributions
-**WHAT** - what outcomes/goals have been achieved
-**HOW** - what actions/skills where demonstrated to achieve the goal
+    - **WHAT** - what outcomes/goals have been achieved
+    - **HOW** - what actions/skills where demonstrated to achieve the goal
 - Helping people grow
     1. **Training** - develop existing or learn new skill
     2. **Feedback** - sharing notes or observations regarding someone's behaviour, skills or wider performance.
