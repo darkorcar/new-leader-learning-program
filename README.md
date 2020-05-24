@@ -26,10 +26,9 @@ Share how you are, your interests, what your focus will be
 Most important ingredient to getting groups of people to work together is **trust**.
 
 - Vulnerability (foundation of trust)
-- Building trust
-To build trust you need to show:
-**Character (relationship-based behaviour)** - integrity and intent
-**Competence (task-based behaviour)** - capabilities and results
+- Building trust - to build trust you need to show:
+    1. **Character (relationship-based behaviour)** - integrity and intent 
+    2. **Competence (task-based behaviour)** - capabilities and results
 - Recognising trust behaviours
 
 Trust is **Reliability, Accountability, Integrity, Vulnerability**.
@@ -41,11 +40,11 @@ Enabling performance by leading with **Purpose**. Purpose is **WHAT**, **HOW** a
 Set goals that are meaningful, aspirational and progress-based.
 
 - Setting goals
-**Career** goals - individual interests and development. One per quarter.
-**Performance** goals - role-related and performance outcomes. One to three per quarter.
+    - **Career** goals - individual interests and development. One per quarter.
+    - **Performance** goals - role-related and performance outcomes. One to three per quarter.
 - Accessing contributions
-**WHAT** - what outcomes / goals have been achieved
-**HOW** - what actions / skills where demonstrated to achieve the goal
+**WHAT** - what outcomes/goals have been achieved
+**HOW** - what actions/skills where demonstrated to achieve the goal
 - Helping people grow
     1. **Training** - develop existing or learn new skill
     2. **Feedback** - sharing notes or observations regarding someone's behaviour, skills or wider performance.
